@@ -2,3 +2,4 @@
 *.ps1
 *.stack-work/
 *.lock
+*dist-newstyle/
